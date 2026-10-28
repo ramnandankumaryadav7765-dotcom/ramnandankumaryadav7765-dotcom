@@ -93,9 +93,6 @@ A portfolio created with HTML and CSS as part of my web-development journey.
 
 I'm continuing to strengthen these technologies through hands-on projects. I'm especially interested in understanding how the different pieces of a full-stack application work together.
 
-## 📊 GitHub Activity
-
-
 <h2>📊 GitHub Activity</h2>
 
 <p align="center">
@@ -122,24 +119,37 @@ I'm continuing to strengthen these technologies through hands-on projects. I'm e
 
 ## 🧩 LeetCode Progress
 
-I use LeetCode to strengthen my DSA fundamentals and practice approaching problems with clear, efficient logic.
-
 <p align="center">
   <a href="https://leetcode.com/u/Ramnandan_Kumar/">
-    <img src="https://leetinfo-api.vercel.app/api/badge?username=Ramnandan_Kumar&stat=solved&label=Problems%20Solved&color=orange" alt="LeetCode Problems Solved"/>
-  </a>
-  <a href="https://leetcode.com/u/Ramnandan_Kumar/">
-    <img src="https://leetinfo-api.vercel.app/api/badge?username=Ramnandan_Kumar&stat=streak&label=Current%20Streak&color=orange" alt="LeetCode Current Streak"/>
-  </a>
-  <a href="https://leetcode.com/u/Ramnandan_Kumar/">
-    <img src="https://leetinfo-api.vercel.app/api/badge?username=Ramnandan_Kumar&stat=longeststreak&label=Longest%20Streak&color=blue" alt="LeetCode Longest Streak"/>
+    <img
+      src="./assets/leetcode-stats.svg"
+      alt="Ramnandan Kumar's LeetCode statistics"
+      width="860"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Ramnandan_Kumar/">
-    <strong>Visit my LeetCode profile →</strong>
+    <img
+      src="./assets/leetcode-heatmap.svg"
+      alt="LeetCode submission activity heatmap"
+      width="779"
+    />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ramnandan_Kumar/">
+    <img
+      src="https://img.shields.io/badge/Visit_My-LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="Visit my LeetCode profile"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>One problem at a time. Better logic, cleaner code, stronger fundamentals.</i>
 </p>
 
 ## 🌱 Beyond Coding
