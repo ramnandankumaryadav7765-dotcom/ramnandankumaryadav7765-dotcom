@@ -95,16 +95,29 @@ I'm continuing to strengthen these technologies through hands-on projects. I'm e
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Activity
+
 <p align="center">
-  <img height="175" src="https://github-stats-extended.vercel.app/api?username=ramnandankumaryadav7765-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="Ramnandan's GitHub Statistics"/>
+  <a href="https://github.com/ramnandankumaryadav7765-dotcom">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=ramnandankumaryadav7765-dotcom&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+      alt="GitHub Stats"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramnandankumaryadav7765-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Programming Languages"/>
+  <img
+    src="https://streak-stats.demolab.com?user=ramnandankumaryadav7765-dotcom&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata"
+    alt="GitHub Total Contributions and Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ramnandankumaryadav7765-dotcom&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramnandankumaryadav7765-dotcom&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    alt="Most Used Languages"
+  />
 </p>
 
 ## 🧩 LeetCode Progress
